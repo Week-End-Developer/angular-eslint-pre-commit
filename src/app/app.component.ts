@@ -12,6 +12,9 @@ export class AppComponent implements OnInit {
   title = ' angular-eslint';
 
   ngOnInit(): void {
+
+    console.log("test");
+    
     
   }
 
